@@ -12,7 +12,7 @@
       }
       images[currentIndex].classList.add('current');
       play();
-    },5000)
+    },6000)
   }
 
   const images = document.querySelectorAll('.hero img');
